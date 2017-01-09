@@ -1,0 +1,49 @@
+@font-face { font-family: GuestCheck; src: url('GUESTCHECK.TTF'); } 
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+  color: navy;
+  font-family: "GuestCheck";
+}
+h2 {
+  font-size: 18px;
+  text-align: center;
+  color: navy;
+  font-family: "GuestCheck";
+}
+h3 {
+	font-size: 16px;
+  color: darkred;
+  font-family: "Courier";
+}
+h4 {
+  color: darkolivegreen;
+  font-family: "GuestCheck";
+}
+body {
+  background: url(guestcheck.png) no-repeat center center fixed;
+  background-opacity: 0.2;
+  /*-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;*/
+  background-size: 450px 775px;
+  background-attachment: scroll;
+  background-position: center top; 
+  background
+}
+.flexcontainer {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-justify-content: center;
+	justify-content: center;
+	-webkit-align-content: center;
+  align-content: center;
+	-webkit-align-items: center;
+  align-items: center;
+}
+.flexform {
+  width: 400px;
+  height: 1200px;
+  margin: auto;
+}
