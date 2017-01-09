@@ -1,6 +1,6 @@
-# Pre-work - # Pre-work - *Guess Check*
+# Pre-work - *Guess Check*
 
-**Guess Check** is a tip calculator PHP page.
+**Guess Check** is a tip calculator built with PHP.
 
 Submitted by: **E Biddlecome**
 
@@ -22,13 +22,13 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] 
+* [x] Cute interface
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://imgur.com/a/TmKQt' title='Video Walkthrough' width='' alt='GuessCheckVideoDemo' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
