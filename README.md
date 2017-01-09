@@ -23,6 +23,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [x] Cute interface
+* [x] Javascript popup alerts for unacceptable input values
 
 ## Video Walkthrough
 
