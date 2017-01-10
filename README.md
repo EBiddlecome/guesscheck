@@ -40,6 +40,8 @@ Describe any challenges encountered while building the app:
 
 Implementing custom tip percentage & session management, I ran into a couple snafus that are probably easily solvable given enough time + coffee
 
+* With more time, I'd implement more best practices (such as breaking out code into separate files, using redirects, etc.)
+
 ## License
 
 Copyright 2017 E Biddlecome
