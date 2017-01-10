@@ -38,7 +38,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app:
 
-Implementing custom tip percentage & session management, I ran into a couple snafus that are probably easily solvable given enough time + coffee
+* Implementing custom tip percentage & session management, I ran into a couple snafus that are probably easily solvable given enough time + coffee
 
 * With more time, I'd implement more best practices (such as breaking out code into separate files, using redirects, etc.)
 
